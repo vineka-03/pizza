@@ -1,0 +1,6 @@
+{
+  "name": "Pizza & Burger Operations",
+  "description": "Modern AI-powered operations, task management, project tracking, priority matrix, progress analytics, and AI assistant for pizza and burger businesses.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
